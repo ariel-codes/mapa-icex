@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "pontos-interesse-andar-2",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "pkuid": 4, "nome": "Cantina", "tipo": "referencia", "andar": 2 }, "geometry": { "type": "Point", "coordinates": [ 180.0, -160.0, 0.0 ] } }
-]
-}

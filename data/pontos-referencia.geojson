@@ -1,6 +1,6 @@
 {
 	"type": "FeatureCollection",
-	"name": "pontos-interesse-z",
+	"name": "pontos-referencia",
 	"crs": {
 		"type": "name",
 		"properties": {
@@ -21,24 +21,7 @@
 				"coordinates": [
 					410.0,
 					-600.0,
-					1.0
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"pkuid": 2,
-				"nome": "Bola do ICEx",
-				"tipo": "referencia",
-				"andar": 1
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					280.0,
-					-320.0,
-					1.0
+					0.0
 				]
 			}
 		},
@@ -55,7 +38,7 @@
 				"coordinates": [
 					570.0,
 					-60.0,
-					1.0
+					0.0
 				]
 			}
 		},
@@ -72,7 +55,7 @@
 				"coordinates": [
 					180.0,
 					-160.0,
-					2.0
+					0.0
 				]
 			}
 		}

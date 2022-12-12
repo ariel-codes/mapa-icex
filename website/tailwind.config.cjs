@@ -2,20 +2,10 @@
 module.exports = {
   content: [
     "./src/index.html",
-    "./src/*.js",
+    "./src/**/*.js",
   ],
   theme: {
-    extend: {
-      screens: {
-        xs: '480px',
-      },
-      dropShadow: {
-        logo: '0 0 2em var(--logo-color)',
-      },
-      willChange: {
-        filter: 'filter',
-      }
-    },
+    extend: {},
   },
   plugins: [],
 }

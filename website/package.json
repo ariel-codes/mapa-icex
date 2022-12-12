@@ -4,12 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "download-data": "curl -o public/salas.json 'https://www.icex.ufmg.br/minhasala/recupera_salas.php' && cp ../data/*.geojson public/",
+    "download-turmas": "curl -o assets/turmas.json 'https://www.icex.ufmg.br/minhasala/recupera_salas.php'",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/leaflet": "^1.9.0",
     "autoprefixer": "^10.4.8",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8",
@@ -18,10 +19,14 @@
   },
   "dependencies": {
     "@hotwired/stimulus": "^3.2.0",
+    "@turf/bbox": "^6.5.0",
     "@turf/clusters": "^6.5.0",
     "@turf/explode": "^6.5.0",
+    "@turf/helpers": "^6.5.0",
     "@turf/points-within-polygon": "^6.5.0",
+    "choices.js": "^10.2.0",
     "geojson-path-finder": "^2.0.0-3",
+    "leaflet": "^1.9.3",
     "stimulus-controller-resolver": "^3.1.0"
   }
 }

@@ -8,14 +8,24 @@
     font-style: normal;
     font-weight: 400;
 
-    color-scheme: light dark;
-    color: CanvasText;
-    background-color: Canvas;
-
     font-synthesis: weight style small-caps;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;
+  }
+}
+
+@layer components {
+  .leaflet-container {
+    /* @apply bg-white; */
+  }
+
+  .mapa-edificio {
+    /* @apply fill-gray-400; */
+  }
+
+  .mapa-bancos {
+    /* @apply fill-gray-300; */
   }
 }

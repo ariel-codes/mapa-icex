@@ -9,21 +9,26 @@
 </head>
 
 <body>
-  <main>
-    <form data-controller="rotas" data-action="rotas#calcular">
+  <main class="flex flex-col">
+    <form data-controller="rotas" data-action="rotas#calcularRota" data-rotas-mapa-outlet='[data-controller="mapa"]'>
       <label>
         Turma:
-        <select name="destino" id="destino" data-rotas-target="destino"></select>
+        <select name="destino" id="destino" data-rotas-target="destino">
+          <option disabled>Selecione sua turma</option>
+        </select>
       </label>
       <label>
         Saindo de:
-        <select name="origem" id="origem" data-rotas-target="origem"></select>
+        <select name="origem" id="origem" data-rotas-target="origem">
+          <option disabled>Selecione primeiro a turma</option>
+        </select>
       </label>
       <button type="submit" class="px-1 border border-black rounded">Calcular</button>
       <p>
         Rota: <code data-rotas-target="saida"></code>
       </p>
     </form>
+    <div data-controller="mapa" class="flex-grow h-[80vh]"></div>
   </main>
   <script type="module" src="/main.js"></script>
 </body>
