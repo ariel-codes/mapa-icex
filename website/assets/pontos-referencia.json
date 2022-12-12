@@ -47,7 +47,7 @@
 			"properties": {
 				"pkuid": 4,
 				"nome": "Cantina",
-				"tipo": "referencia",
+				"tipo": "cantina",
 				"andar": 2
 			},
 			"geometry": {

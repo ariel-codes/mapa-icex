@@ -1,3 +1,6 @@
+@import "choices.js/public/assets/styles/choices.min.css";
+@import "leaflet/dist/leaflet.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -14,18 +17,157 @@
     -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;
   }
+
+  html,
+  body {
+    @apply h-screen;
+  }
 }
 
 @layer components {
+  .choices {
+    @apply m-0;
+  }
+
+  .button {
+    @apply flex-grow p-1 text-sm font-medium uppercase border border-black rounded-sm;
+    @apply hover:bg-slate-100 active:shadow-inner ring-gray-500 focus-visible:ring-1 active:ring-2;
+  }
+
   .leaflet-container {
     /* @apply bg-white; */
   }
 
-  .mapa-edificio {
-    /* @apply fill-gray-400; */
+  .mapa {
+    @apply stroke-none;
+    fill-opacity: 1;
   }
 
-  .mapa-bancos {
-    /* @apply fill-gray-300; */
+  .mapa-edificio {
+    @apply stroke-[0.5px] fill-gray-100 stroke-black;
   }
+
+  .mapa-banco {
+    @apply stroke-[4] fill-gray-500 stroke-gray-500;
+  }
+
+  .mapa-jardim {
+    @apply fill-green-500;
+  }
+
+  .mapa-escada,
+  .mapa-elevador {
+    @apply fill-gray-400;
+  }
+
+  .mapa-banheiro-masculino,
+  .mapa-banheiro-feminino {
+    @apply fill-gray-400;
+  }
+
+  .mapa-vazio {
+    @apply fill-purple-600;
+    fill-opacity: 0.2
+  }
+
+  .mapa-salas {
+    @apply stroke-2 fill-white stroke-yellow-300;
+  }
+
+  .tooltip-salas {
+    @apply px-0.5 py-0 text-black border border-black rounded-none shadow-none;
+  }
+
+  .tooltip-referencias {
+    @apply px-0.5 py-0 text-black border border-black rounded-none shadow-none flex items-center;
+  }
+
+  .tooltip-base {
+    @apply p-0 border-none rounded-sm shadow-md;
+  }
+
+  .tooltip-icon {
+    @apply w-12 max-w-none m-[-0.25rem];
+  }
+
+  .tooltip-turma {
+    @apply text-lg font-medium border-none rounded-none shadow-sm;
+  }
+
+  .mapa-icones {
+    @apply w-10 max-w-none;
+  }
+
+  .mapa-marcadores {
+    @apply text-4xl text-gray-700;
+  }
+
+  .mapa-rota {
+    @apply stroke-2 stroke-red-500;
+  }
+
+  .mapa-turma {
+    @apply stroke-[3] stroke-yellow-300 fill-red-400;
+  }
+}
+
+.leaflet-zoom-box {
+  z-index: 40;
+}
+
+
+.leaflet-pane {
+  z-index: 20;
+}
+
+.leaflet-tile-pane {
+  z-index: 10;
+}
+
+.leaflet-overlay-pane {
+  z-index: 20;
+}
+
+.leaflet-shadow-pane {
+  z-index: 25;
+}
+
+.leaflet-marker-pane {
+  z-index: 30;
+}
+
+.leaflet-tooltip-pane {
+  z-index: 32;
+}
+
+.leaflet-popup-pane {
+  z-index: 35;
+}
+
+.leaflet-map-pane canvas {
+  z-index: 100;
+  @apply z-10;
+}
+
+.leaflet-map-pane svg {
+  z-index: 10;
+}
+
+
+.leaflet-control {
+  z-index: 40;
+}
+
+.leaflet-top,
+.leaflet-bottom {
+  z-index: 50;
+}
+
+.choices__list {
+  z-index: 60 !important;
+}
+
+.choices__list[aria-expanded],
+.choices__list--dropdown {
+  word-break: normal;
 }

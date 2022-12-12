@@ -6,15 +6,17 @@ export default defineConfig({
     StimulusHMR(),
   ],
   preview: {
-    open: true,
+    open: false,
   },
   server: {
-    open: true,
+    open: false,
   },
   root: 'src',
   publicDir: '../public',
+  base: '/~ariel.santos/mapa-icex',
   build: {
     outDir: '../dist',
     emptyOutDir: true,
+    cssCodeSplit: false
   },
 })

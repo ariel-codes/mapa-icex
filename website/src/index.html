@@ -3,32 +3,34 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta http-equiv="Cache-control" content="public">
   <title>Mapa Salas ICEx - UFMG</title>
 </head>
 
-<body>
-  <main class="flex flex-col">
-    <form data-controller="rotas" data-action="rotas#calcularRota" data-rotas-mapa-outlet='[data-controller="mapa"]'>
-      <label>
-        Turma:
-        <select name="destino" id="destino" data-rotas-target="destino">
-          <option disabled>Selecione sua turma</option>
-        </select>
-      </label>
-      <label>
-        Saindo de:
-        <select name="origem" id="origem" data-rotas-target="origem">
-          <option disabled>Selecione primeiro a turma</option>
-        </select>
-      </label>
-      <button type="submit" class="px-1 border border-black rounded">Calcular</button>
-      <p>
-        Rota: <code data-rotas-target="saida"></code>
-      </p>
-    </form>
-    <div data-controller="mapa" class="flex-grow h-[80vh]"></div>
+<body class="flex flex-col h-screen gap-2">
+  <h1 class="pt-4 text-3xl text-center" style="font-variant:small-caps">Mapa Interativo de Salas do ICEx</h1>
+  <main class="flex flex-col items-center flex-grow">
+    <header class="container p-2">
+      <form class="flex flex-col gap-4 m-auto md:max-w-md" data-controller="rotas" data-action="rotas#calcularRota"
+        data-action="click:outside->rotas#closeModal" data-rotas-mapa-outlet='[data-controller="mapa"]'>
+        <select name="destino" id="destino" data-rotas-target="destino" class="choices"></select>
+        <select name="origem" id="origem" data-rotas-target="origem"></select>
+        <fieldset class="flex md:flex-row">
+          <button type="submit" class="button border-r-[0.5px] rounded-r-none">Navegar</button>
+          <button type="reset" data-action="rotas#reset" class="button border-l-[0.5px] rounded-l-none">Limpar</button>
+        </fieldset>
+        <dialog class="border border-black rounded-sm backdrop:bg-gray-50 backdrop:bg-opacity-90 md:max-w-md"
+          data-rotas-target="modal" data-action="click->rotas#clickModal touchend->rotas#clickModal">
+          <header class="py-2 text-lg font-semibold text-center" style="font-variant:small-caps">
+            Sala Não Referenciada
+          </header>
+          <p class="text-justify">Não foi possível encontrar a sala "<code class="font-mono" data-rotas-target="textoModal"></code>".<br>
+            Isso provavelmente se deve a sala não ser localizada no ICEx ou se encontrar no bloco da Física ou Auditórios.</p>
+        </dialog>
+      </form>
+    </header>
+    <div data-controller="mapa" class="flex-grow w-screen border-t border-gray-500"></div>
   </main>
   <script type="module" src="/main.js"></script>
 </body>

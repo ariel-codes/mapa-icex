@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "nome_materia": "DACOMPSI",
+      "codigo_materia": "DCC420",
+      "turma": ":)",
+      "hora_inicial": "09:30",
+      "hora_final": "21:30",
+      "dia_semana": "Seg-Ter-Qua-Qui-Sex",
+      "nome_sala": "2038"
+    },
+    {
       "nome_materia": "ESTATISTICA PARA ENGENHARIA CIVIL",
       "codigo_materia": "EST027",
       "turma": "TA2",
