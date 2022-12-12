@@ -1,64 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
-  </head>
-  <body>
-    <div id="app" class="mx-auto max-w-7xl p-8 space-y-8 text-center">
-      <div class="flex flex-wrap gap-2 items-center justify-center text-gray-400 text-3xl leading-none">
-        <a href="https://vitejs.dev">
-          <img src="/vite.svg" class="w-24 p-6 will-change-filter hover:drop-shadow-logo" style="--logo-color: #646cffaa" alt="Vite logo" />
-        </a>
-        +
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="/javascript.svg" class="w-24 p-6 will-change-filter hover:drop-shadow-logo" style="--logo-color: #f7df1eaa" alt="JavaScript logo" />
-        </a>
-        +
-        <a href="https://stimulus.hotwired.dev/">
-          <img src="/stimulus.svg" class="w-24 p-6 will-change-filter hover:drop-shadow-logo" style="--logo-color: #000000aa" alt="Stimulus logo" />
-        </a>
-        +
-        <a href="https://tailwindcss.com/">
-          <img src="/tailwind.svg" class="w-24 p-6 will-change-filter hover:drop-shadow-logo" style="--logo-color: #38bdf8aa" alt="Tailwind CSS logo" />
-        </a>
-      </div>
-      <h1 class="text-6xl bg-gradient-to-r from-sky-400 to-purple-500 bg-clip-text text-transparent">Hello Vite!</h1>
-      <div class="flex justify-center">
-        <button
-          id="counter"
-          type="button"
-          data-controller="counter"
-          data-action="counter#increment"
-          class="border rounded py-2 px-4 hover:bg-gray-100"
-        ></button>
-      </div>
-      <form class="max-w-xs mx-auto" data-controller="hello">
-        <div class="flex">
-          <label for="your-name" class="sr-only">
-            Your Name
-          </label>
-          <input
-            id="your-name"
-            type="text"
-            placeholder="Enter your name"
-            class="border border-r-0 rounded-l p-2 flex-1"
-            data-hello-target="input"
-            data-action="keyup->hello#handleKeyup"
-          >
-          <button
-            class="bg-sky-600 hover:bg-sky-800 text-white px-4 py-2 rounded-r disabled:bg-gray-300 disabled:cursor-not-allowed"
-            data-hello-target="button"
-            data-action="hello#greet:prevent"
-          >
-            Greet
-          </button>
-        </div>
-        <p class="mt-2" data-hello-target="output">&nbsp;</p>
-      </form>
-    </div>
-    <script type="module" src="/main.js"></script>
-  </body>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-control" content="public">
+  <title>Mapa Salas ICEx - UFMG</title>
+</head>
+
+<body>
+  <main>
+    <form data-controller="rotas" data-action="rotas#calcular">
+      <label>
+        Turma:
+        <select name="destino" id="destino" data-rotas-target="destino"></select>
+      </label>
+      <label>
+        Saindo de:
+        <select name="origem" id="origem" data-rotas-target="origem"></select>
+      </label>
+      <button type="submit" class="px-1 border border-black rounded">Calcular</button>
+      <p>
+        Rota: <code data-rotas-target="saida"></code>
+      </p>
+    </form>
+  </main>
+  <script type="module" src="/main.js"></script>
+</body>
+
 </html>

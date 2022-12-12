@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "download-data": "curl -o public/salas.json 'https://www.icex.ufmg.br/minhasala/recupera_salas.php' && cp ../data/*.geojson public/",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -16,7 +17,11 @@
     "vite-plugin-stimulus-hmr": "^3.0.0"
   },
   "dependencies": {
-    "@hotwired/stimulus": "^3.1.0",
-    "stimulus-controller-resolver": "^3.0.0"
+    "@hotwired/stimulus": "^3.2.0",
+    "@turf/clusters": "^6.5.0",
+    "@turf/explode": "^6.5.0",
+    "@turf/points-within-polygon": "^6.5.0",
+    "geojson-path-finder": "^2.0.0-3",
+    "stimulus-controller-resolver": "^3.1.0"
   }
 }

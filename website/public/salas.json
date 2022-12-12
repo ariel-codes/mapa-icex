@@ -1,0 +1,708 @@
+{"records":[ {"nome_materia":"ESTATISTICA PARA ENGENHARIA CIVIL","codigo_materia":"EST027","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"2006"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1024"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TW","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Sex","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"PROBABILIDADE","codigo_materia":"EST032","turma":"TMC","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"ESTATISTICA GERAL","codigo_materia":"EST034","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1022"}
+,{"nome_materia":"ANALISE DE REGRESSAO","codigo_materia":"EST035","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1017"}
+,{"nome_materia":"METODOS ESTATISTICOS DE PREVISAO","codigo_materia":"EST038","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1014"}
+,{"nome_materia":"PRATICAS ATUARIAIS EM SEGUROS E PENSOES","codigo_materia":"EST051","turma":"TA","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1017"}
+,{"nome_materia":"TOPICOS ESPECIAIS EM ATUARIA","codigo_materia":"EST053","turma":"TA","hora_inicial":"07:30","hora_final":"11:05","dia_semana":"Sex","nome_sala":"1024"}
+,{"nome_materia":"INICIACAO A ESTATISTICA","codigo_materia":"EST078","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"MODELOS LINEARES GENERALIZADOS","codigo_materia":"EST079","turma":"TU","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"1018"}
+,{"nome_materia":"BIOESTATISTICA BASICA F","codigo_materia":"EST083","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"BIOESTATISTICA BASICA F","codigo_materia":"EST083","turma":"TM","hora_inicial":"13:30","hora_final":"15:10","dia_semana":"Seg","nome_sala":"1022"}
+,{"nome_materia":"TE: ESTATISTICA COMPUTACIONAL E OTIMIZACAO","codigo_materia":"EST171","turma":"TA","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"1025"}
+,{"nome_materia":"TE: CIENCIAS DE DADOS COM R","codigo_materia":"EST171","turma":"TB","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1017"}
+,{"nome_materia":"TE: INFERENCIA ESTATISTICA COM ABORDAGEM BAYESIANA","codigo_materia":"EST171","turma":"TD","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1020"}
+,{"nome_materia":"INTRODUCAO A BIOESTATISTICA","codigo_materia":"EST179","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"INTRODUCAO A BIOESTATISTICA","codigo_materia":"EST179","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"INTRODUCAO A BIOESTATISTICA","codigo_materia":"EST179","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"INTRODUCAO A BIOESTATISTICA","codigo_materia":"EST179","turma":"TMF","hora_inicial":"13:30","hora_final":"17:30","dia_semana":"Seg","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"INTRODUCAO A BIOESTATISTICA","codigo_materia":"EST179","turma":"TMT","hora_inicial":"13:30","hora_final":"17:30","dia_semana":"Qua","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"SEMINARIOS I","codigo_materia":"EST185","turma":"PTA","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Sex","nome_sala":"2006"}
+,{"nome_materia":"PROBABILIDADE I","codigo_materia":"EST186","turma":"TA","hora_inicial":"09:25","hora_final":"11:55","dia_semana":"Ter-Qui","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"LABORATORIO DE ESTATISTICA I","codigo_materia":"EST188","turma":"TTA A TTG","hora_inicial":"07:30","hora_final":"11:05","dia_semana":"Sex","nome_sala":"1017"}
+,{"nome_materia":"ESTATISTICA","codigo_materia":"EST612","turma":"TB","hora_inicial":"10:15","hora_final":"11:55","dia_semana":"Seg","nome_sala":"1012"}
+,{"nome_materia":"FISICA EXPERIMENTAL BASICA: ELETROMAGNETISMO","codigo_materia":"FIS153","turma":"TODAS","hora_inicial":"07:00","hora_final":"22:00","dia_semana":"Seg-Ter-Qua-Qui-Sex","nome_sala":"2045 a 2048 LAB FIS"}
+,{"nome_materia":"FISICA EXPERIMENTAL BASICA: TERMODINAMICA","codigo_materia":"FIS154","turma":"TODAS","hora_inicial":"07:00","hora_final":"22:00","dia_semana":"Seg-Ter-Qua-Qui-Sex","nome_sala":"2045 a 2048 LAB FIS"}
+,{"nome_materia":"INTRODUCAO A FISICA ESTATISTICA COMPUTACIONAL","codigo_materia":"FIS156","turma":"TODAS","hora_inicial":"07:00","hora_final":"22:00","dia_semana":"Seg-Ter-Qua-Qui-Sex","nome_sala":"2045 a 2048 LAB FIS"}
+,{"nome_materia":"FISICA EXPERIMENTAL BASICA: MECANICA","codigo_materia":"FIS151","turma":"TODAS","hora_inicial":"07:30","hora_final":"22:00","dia_semana":"Seg-Ter-Qua-Qui-Sex","nome_sala":"2067 e 2068 - LAB. FIS"}
+,{"nome_materia":"FISICA EXPERIMENTAL: FISICA MODERNA","codigo_materia":"FIS627","turma":"TODAS","hora_inicial":"07:30","hora_final":"22:00","dia_semana":"Seg","nome_sala":"LAB. FIS"}
+,{"nome_materia":"FISICA EXPERIMENTAL: ELETROMAGNETISMO","codigo_materia":"FIS653","turma":"TODAS","hora_inicial":"07:30","hora_final":"22:00","dia_semana":"Seg","nome_sala":"LAB. FIS"}
+,{"nome_materia":"FISICA EXPERIMENTAL: OSCILACOES, ONDAS E OTICA","codigo_materia":"FIS654","turma":"TODAS","hora_inicial":"07:30","hora_final":"22:00","dia_semana":"Seg","nome_sala":"LAB. FIS"}
+,{"nome_materia":"RECURSOS DIDATICOS MECANICA, FLUIDOS E FISICA TERMICA","codigo_materia":"FIS619","turma":"PE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"RECURSOS DIDATICOS MECANICA, FLUIDOS E FISICA TERMICA","codigo_materia":"FIS619","turma":"PE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"EVOLUCAO DAS IDEIAS DA FISICA","codigo_materia":"FIS003","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"1014"}
+,{"nome_materia":"EVOLUCAO DAS IDEIAS DA FISICA","codigo_materia":"FIS003","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"1014"}
+,{"nome_materia":"EVOLUCAO DAS IDEIAS DA FISICA","codigo_materia":"FIS003","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1017"}
+,{"nome_materia":"ASTRONOMIA GERAL","codigo_materia":"FIS004","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"1014"}
+,{"nome_materia":"ASTROFISICA ESTELAR","codigo_materia":"FIS006","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1021"}
+,{"nome_materia":"MECANICA FUNDAMENTAL","codigo_materia":"FIS031","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"MECANICA FUNDAMENTAL","codigo_materia":"FIS031","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"MECANICA FUNDAMENTAL","codigo_materia":"FIS031","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"MECANICA FUNDAMENTAL","codigo_materia":"FIS031","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"MECANICA I","codigo_materia":"FIS034","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"2006"}
+,{"nome_materia":"MECANICA II","codigo_materia":"FIS036","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1020"}
+,{"nome_materia":"ELETROMAGNETISMO I","codigo_materia":"FIS037","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1018"}
+,{"nome_materia":"ELETROMAGNETISMO II","codigo_materia":"FIS039","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1020"}
+,{"nome_materia":"FISICA EXPERIMENTAL AVANCADA","codigo_materia":"FIS040","turma":"PB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Qua","nome_sala":"1026"}
+,{"nome_materia":"FISICA EXPERIMENTAL AVANCADA","codigo_materia":"FIS040","turma":"PB","hora_inicial":"08:20","hora_final":"11:55","dia_semana":"Sex","nome_sala":"1026"}
+,{"nome_materia":"INTRODUCAO A FISICA DE PARTICULAS","codigo_materia":"FIS042","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"1017"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TB3","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TE3","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TE3","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TF1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TF1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TZ2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TF1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TF1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"INTRODUCAO A FISICA QUANTICA","codigo_materia":"FIS073","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"1018"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES, ONDAS E OPTICAS","codigo_materia":"FIS086","turma":"TF1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES, ONDAS E OPTICAS","codigo_materia":"FIS086","turma":"TF1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES, ONDAS E OPTICAS","codigo_materia":"FIS086","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES, ONDAS E OPTICAS","codigo_materia":"FIS086","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES E ONDAS","codigo_materia":"FIS087","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qua","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES E ONDAS","codigo_materia":"FIS087","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Qua","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES E ONDAS","codigo_materia":"FIS087","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES E ONDAS","codigo_materia":"FIS087","turma":"TP","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"1012"}
+,{"nome_materia":"FUNDAMENTOS DE FISICA QUANTICA","codigo_materia":"FIS088","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"1012"}
+,{"nome_materia":"FUNDAMENTOS DA TEORIA DA RELATIVIDADE","codigo_materia":"FIS091","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"1020"}
+,{"nome_materia":"FUNDAMENTOS DA TEORIA DA RELATIVIDADE","codigo_materia":"FIS091","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Sex","nome_sala":"1019"}
+,{"nome_materia":"FUNDAMENTOS DE FISICA F","codigo_materia":"FIS093","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"FISICA QUANTICA I","codigo_materia":"FIS120","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"1020"}
+,{"nome_materia":"FISICA QUANTICA II","codigo_materia":"FIS121","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"1017"}
+,{"nome_materia":"OPTICA","codigo_materia":"FIS123","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1012"}
+,{"nome_materia":"FISICA ACUSTICA E ONDAS","codigo_materia":"FIS150","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter","nome_sala":"1019"}
+,{"nome_materia":"FISICA ACUSTICA E ONDAS","codigo_materia":"FIS150","turma":"TM","hora_inicial":"10:15","hora_final":"11:55","dia_semana":"Qui","nome_sala":"1019"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA DOS FLUIDOS E TERMODINAMICA","codigo_materia":"FIS152","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA DOS FLUIDOS E TERMODINAMICA","codigo_materia":"FIS152","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA DOS FLUIDOS E TERMODINAMICA","codigo_materia":"FIS152","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA DOS FLUIDOS E TERMODINAMICA","codigo_materia":"FIS152","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA DOS FLUIDOS E TERMODINAMICA","codigo_materia":"FIS152","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA DOS FLUIDOS E TERMODINAMICA","codigo_materia":"FIS152","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"SEMINARIOS: FISICA E SOCIEDADE","codigo_materia":"FIS615","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter","nome_sala":"AUD. I - ICEX"}
+,{"nome_materia":"INTRODUCAO A COMPUTACAO EM FISICA","codigo_materia":"FIS616","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"1014"}
+,{"nome_materia":"INTRODUCAO A COMPUTACAO EM FISICA","codigo_materia":"FIS616","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"1014"}
+,{"nome_materia":"INTRODUCAO A COMPUTACAO EM FISICA","codigo_materia":"FIS616","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1017"}
+,{"nome_materia":"METODOS DA FISICA TEORICA I","codigo_materia":"FIS618","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"1018"}
+,{"nome_materia":"RECURSOS DIDATICOS MECANICA, FLUIDOS E FISICA TERMICA","codigo_materia":"FIS619","turma":"PN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"FISICA CONCEITUAL A","codigo_materia":"FIS620","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1011"}
+,{"nome_materia":"ESTRUTURA DA MATERIA","codigo_materia":"FIS622","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"1018"}
+,{"nome_materia":"ESTRUTURA DA MATERIA","codigo_materia":"FIS622","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"1018"}
+,{"nome_materia":"ESTRUTURA DA MATERIA","codigo_materia":"FIS622","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"1020"}
+,{"nome_materia":"METODOS DA FISICA TEORICA II","codigo_materia":"FIS623","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1018"}
+,{"nome_materia":"FISICA CONCEITUAL B","codigo_materia":"FIS624","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"1023"}
+,{"nome_materia":"FISICA CONCEITUAL B","codigo_materia":"FIS624","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"1023"}
+,{"nome_materia":"RECURSOS DIDATICOS ELETROMAGNETISMO","codigo_materia":"FIS625","turma":"PZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"RECURSOS DIDATICOS ASTRONOMIA","codigo_materia":"FIS626","turma":"PZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"TERMODINAMICA E INTRODUCAO A FISICA ESTATISTICA","codigo_materia":"FIS628","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1021"}
+,{"nome_materia":"RECURSOS DIDATICOS ONDAS, OTICA E FISICA MODERNA","codigo_materia":"FIS629","turma":"PF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"RECURSOS DIDATICOS ONDAS, OTICA E FISICA MODERNA","codigo_materia":"FIS629","turma":"PF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"RECURSOS DIDATICOS ONDAS, OTICA E FISICA MODERNA","codigo_materia":"FIS629","turma":"PM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"2051 LAB FIS"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Sex","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Sex","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TE3","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Sex","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TE3","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TF1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg-Sex","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TF1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TF2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg-Sex","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TF2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TM4","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua-Sex","nome_sala":"1019"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TN3","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TN4","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"1019"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TD","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TD1","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Seg-Qua","nome_sala":"1024"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 210"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 210"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 313"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"MATEMATICA A","codigo_materia":"MAT020","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"MATEMATICA A","codigo_materia":"MAT020","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"HISTORIA DA MATEMATICA","codigo_materia":"MAT025","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"2031"}
+,{"nome_materia":"HISTORIA DA MATEMATICA","codigo_materia":"MAT025","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Sex","nome_sala":"2031"}
+,{"nome_materia":"FUNDAMENTOS DE ALGEBRA","codigo_materia":"MAT028","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"2032"}
+,{"nome_materia":"FUNDAMENTOS DE ALGEBRA","codigo_materia":"MAT028","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui-Sex","nome_sala":"2032"}
+,{"nome_materia":"FUNDAMENTOS DE ALGEBRA","codigo_materia":"MAT028","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui-Sex","nome_sala":"1024"}
+,{"nome_materia":"TMA - DESCOBRIDORES DA MATEMATICA NUMEROS NA ESCOLA","codigo_materia":"MAT033","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2031"}
+,{"nome_materia":"TMA: INTRODUCAO A COMBINATORIA ASSINTOTICA","codigo_materia":"MAT033","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2031"}
+,{"nome_materia":"TMA - INTRODUCAO AS VARIEDADES","codigo_materia":"MAT033","turma":"TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2031"}
+,{"nome_materia":"ALGEBRA A","codigo_materia":"MAT034","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"FUNDAMENTOS DE GEOMETRIA PLANA E DESENHO GEOMETRICO","codigo_materia":"MAT035","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"2031"}
+,{"nome_materia":"FUNDAMENTOS DE GEOMETRIA PLANA E DESENHO GEOMETRICO","codigo_materia":"MAT035","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua-Sex","nome_sala":"2031"}
+,{"nome_materia":"FUNDAMENTOS DE GEOMETRIA PLANA E DESENHO GEOMETRICO","codigo_materia":"MAT035","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"2031"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TB3","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TD1","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TD2","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TG","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TG","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TM4","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TN3","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TZ2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TD","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TD1","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TF1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TF1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - AUDITORIO B302"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - AUDITORIO B302"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS C","codigo_materia":"MAT040","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS C","codigo_materia":"MAT040","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS C","codigo_materia":"MAT040","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS C","codigo_materia":"MAT040","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS C","codigo_materia":"MAT040","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"TOPICOS EM MATEMATICA COMPUTACIONAL","codigo_materia":"MAT041","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"1011"}
+,{"nome_materia":"CALCULO DE VARIAS VARIAVEIS","codigo_materia":"MAT042","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"CALCULO DE VARIAS VARIAVEIS","codigo_materia":"MAT042","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"RESOLUCAO DE PROBLEMAS","codigo_materia":"MAT045","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"2032"}
+,{"nome_materia":"ANALISE COMBINATORIA","codigo_materia":"MAT047","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"2032"}
+,{"nome_materia":"ANALISE COMBINATORIA","codigo_materia":"MAT047","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"2032"}
+,{"nome_materia":"ANALISE COMBINATORIA","codigo_materia":"MAT047","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2032"}
+,{"nome_materia":"ALGEBRA LINEAR I","codigo_materia":"MAT048","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"ALGEBRA LINEAR I","codigo_materia":"MAT048","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"ALGEBRA LINEAR I","codigo_materia":"MAT048","turma":"TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"ALGEBRA LINEAR I","codigo_materia":"MAT048","turma":"TZ2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"NUMERO NA ESCOLA BASICA","codigo_materia":"MAT049","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"2032"}
+,{"nome_materia":"NUMERO NA ESCOLA BASICA","codigo_materia":"MAT049","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"2032"}
+,{"nome_materia":"NUMERO NA ESCOLA BASICA","codigo_materia":"MAT049","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2032"}
+,{"nome_materia":"GEOMETRIA ESPACIAL","codigo_materia":"MAT050","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1014"}
+,{"nome_materia":"GEOMETRIA NA EDUCACAO BASICA","codigo_materia":"MAT052","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"2006"}
+,{"nome_materia":"GEOMETRIA NA EDUCACAO BASICA","codigo_materia":"MAT052","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"2006"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT105","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg-Sex","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT105","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"VARIAVEL COMPLEXA","codigo_materia":"MAT118","turma":"TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"MATEMATICA","codigo_materia":"MAT130","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"2032"}
+,{"nome_materia":"MATEMATICA","codigo_materia":"MAT130","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"2032"}
+,{"nome_materia":"MATEMATICA","codigo_materia":"MAT130","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua-Sex","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"ALGEBRA LINEAR II","codigo_materia":"MAT213","turma":"TMM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua-Sex","nome_sala":"2032"}
+,{"nome_materia":"FUNDAMENTOS DA ANALISE","codigo_materia":"MAT223","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"2006"}
+,{"nome_materia":"ANEIS E MODULOS","codigo_materia":"MAT233","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2006"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS NUMERICAS","codigo_materia":"MAT236","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1022"}
+,{"nome_materia":"ANALISE I","codigo_materia":"MAT243","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"2032"}
+,{"nome_materia":"INTRODUCAO A GEOMETRIA DIFERENCIAL","codigo_materia":"MAT244","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1015"}
+,{"nome_materia":"ANALISE II","codigo_materia":"MAT245","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"1024"}
+,{"nome_materia":"INTRODUCAO AS EQUACOES DIFERENCIAIS ORDINARIAS","codigo_materia":"MAT246","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1015"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TN3","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"FISICO-QUIMICA G II","codigo_materia":"QUI009","turma":"TA","hora_inicial":"08:20","hora_final":"09:10","dia_semana":"Ter","nome_sala":"1015"}
+,{"nome_materia":"FISICO-QUIMICA G II","codigo_materia":"QUI009","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qui","nome_sala":"1015"}
+,{"nome_materia":"TQA: CONTROLE ESTATISTICO DE PROCESSOS","codigo_materia":"QUI013","turma":"TA","hora_inicial":"13:50","hora_final":"16:20","dia_semana":"Qua","nome_sala":"AUD. I - ICEX"}
+,{"nome_materia":"TQB: SISTEMAS ELETROQUIMICOS APLICADOS NA GERACAO E ARMAZENAMENTO DE ENERGIA","codigo_materia":"QUI014","turma":"TA","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1011"}
+,{"nome_materia":"TQB: INTRODUCAO A ANALISE DE DADOS","codigo_materia":"QUI014","turma":"TB","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1025"}
+,{"nome_materia":"TQB: CRISTALOGRAFIA ESTRUTURAL","codigo_materia":"QUI014","turma":"TC","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"1021"}
+,{"nome_materia":"TQB: ENERGIA E MEIO AMBIENTE","codigo_materia":"QUI014","turma":"TD","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"1025"}
+,{"nome_materia":"TQB: ESTATISTICA PARA QUIMICA ANALITICA","codigo_materia":"QUI014","turma":"TE","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1020"}
+,{"nome_materia":"TQB: SINTESES ORGANICAS - FUNDAMENTOS E APLICACOES","codigo_materia":"QUI014","turma":"TF","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"2031"}
+,{"nome_materia":"TQB: ARGUMENTACAO NO ENSINO DE QUIMICA - ELABORACAO DE SEQUENCIA DIDATICA","codigo_materia":"QUI014","turma":"TG","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1021"}
+,{"nome_materia":"INTRODUCAO A BIOQUIMICA","codigo_materia":"QUI035","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1019"}
+,{"nome_materia":"INTRODUCAO A BIOQUIMICA","codigo_materia":"QUI035","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1022"}
+,{"nome_materia":"FUNDAMENTOS DE QUIMICA ANALITICA","codigo_materia":"QUI051","turma":"TF1","hora_inicial":"19:50","hora_final":"22:20","dia_semana":"Sex","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"FUNDAMENTOS DE QUIMICA ANALITICA","codigo_materia":"QUI051","turma":"TF2","hora_inicial":"19:50","hora_final":"22:20","dia_semana":"Sex","nome_sala":"1014"}
+,{"nome_materia":"ANALISE QUANTITATIVA","codigo_materia":"QUI055","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"1020"}
+,{"nome_materia":"METODOS FISICOS DE ANALISE I","codigo_materia":"QUI060","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1018"}
+,{"nome_materia":"TQC: INTRODUCAO A PESQUISA EM QUIMICA DE COORDENACAO","codigo_materia":"QUI084","turma":"TM","hora_inicial":"13:00","hora_final":"16:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"TQC: FUNDAMENTOS DA RESOLUCAO DE PROBLEMAS SOCIOCIENTIFICOS","codigo_materia":"QUI084","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1018"}
+,{"nome_materia":"TQF: GESTAO CRIATIVA E INOVADORA EM LABORATORIO I","codigo_materia":"QUI087","turma":"PM","hora_inicial":"13:00","hora_final":"16:35","dia_semana":"Seg","nome_sala":"1026"}
+,{"nome_materia":"TQL - PLANEJAMENTO DE CARREIRAS","codigo_materia":"QUI093","turma":"TO","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"1026"}
+,{"nome_materia":"TQL: ANALISE QUIMICA DE AGUAS","codigo_materia":"QUI093","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg","nome_sala":"1018"}
+,{"nome_materia":"QUIMICA FUNDAMENTAL I","codigo_materia":"QUI099","turma":"TM","hora_inicial":"13:00","hora_final":"15:30","dia_semana":"Qui","nome_sala":"1026"}
+,{"nome_materia":"QUIMICA FUNDAMENTAL II","codigo_materia":"QUI100","turma":"TB","hora_inicial":"09:25","hora_final":"11:55","dia_semana":"Qui","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"QUIMICA PARA CIENCIAS BIOLOGICAS","codigo_materia":"QUI142","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qua-Sex","nome_sala":"1012"}
+,{"nome_materia":"QUIMICA PARA CIENCIAS BIOLOGICAS","codigo_materia":"QUI142","turma":"TE1","hora_inicial":"19:00","hora_final":"22:35","dia_semana":"Qui","nome_sala":"1012"}
+,{"nome_materia":"QUIMICA PARA CIENCIAS BIOLOGICAS","codigo_materia":"QUI142","turma":"TE2","hora_inicial":"19:00","hora_final":"22:35","dia_semana":"Qui","nome_sala":"1025"}
+,{"nome_materia":"QUIMICA GERAL C","codigo_materia":"QUI143","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Sex","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"QUIMICA GERAL C","codigo_materia":"QUI143","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"QUIMICA GERAL C","codigo_materia":"QUI143","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Sex","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"CICLO DE PALESTRAS A","codigo_materia":"QUI145","turma":"TE","hora_inicial":"19:00","hora_final":"19:50","dia_semana":"Qui","nome_sala":"AUD. I - QUI"}
+,{"nome_materia":"QUIMICA INORGANICA CI","codigo_materia":"QUI147","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Sex","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"QUIMICA INORGANICA CI","codigo_materia":"QUI147","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"1018"}
+,{"nome_materia":"QUIMICA INORGANICA CI","codigo_materia":"QUI147","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"1018"}
+,{"nome_materia":"CICLO DE PALESTRAS B","codigo_materia":"QUI149","turma":"TC","hora_inicial":"10:15","hora_final":"11:05","dia_semana":"Ter","nome_sala":"AUD. I - QUI"}
+,{"nome_materia":"CICLO DE PALESTRAS B","codigo_materia":"QUI149","turma":"TF","hora_inicial":"19:00","hora_final":"19:50","dia_semana":"Sex","nome_sala":"AUD. I - QUI"}
+,{"nome_materia":"QUIMICA ORGANICA CI","codigo_materia":"QUI150","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"QUIMICA ORGANICA CI","codigo_materia":"QUI150","turma":"TF1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"QUIMICA ORGANICA CI","codigo_materia":"QUI150","turma":"TF1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"QUIMICA ORGANICA CI","codigo_materia":"QUI150","turma":"TF2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"1018"}
+,{"nome_materia":"QUIMICA ORGANICA CI","codigo_materia":"QUI150","turma":"TF2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"1018"}
+,{"nome_materia":"FISICO-QUIMICA CI","codigo_materia":"QUI151","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1011"}
+,{"nome_materia":"FISICO-QUIMICA CI","codigo_materia":"QUI151","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"FISICO-QUIMICA CI","codigo_materia":"QUI151","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"FISICO-QUIMICA CI","codigo_materia":"QUI151","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"FISICO-QUIMICA CI","codigo_materia":"QUI151","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 410"}
+,{"nome_materia":"QUIMICA ORGANICA CII","codigo_materia":"QUI189","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"FISICO-QUIMICA CII","codigo_materia":"QUI190","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"FISICO-QUIMICA CII","codigo_materia":"QUI190","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"CARACTERIZACAO DE MATERIAIS","codigo_materia":"QUI193","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Qua","nome_sala":"2006"}
+,{"nome_materia":"CARACTERIZACAO DE MATERIAIS","codigo_materia":"QUI193","turma":"TB","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Sex","nome_sala":"2006"}
+,{"nome_materia":"BIOTECNOLOGIA AMBIENTAL","codigo_materia":"QUI194","turma":"TE","hora_inicial":"19:00","hora_final":"22:35","dia_semana":"Ter","nome_sala":"1025"}
+,{"nome_materia":"CINETICA QUIMICA","codigo_materia":"QUI198","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"1022"}
+,{"nome_materia":"INTRODUCAO A ESTRUTURA DA MATERIA","codigo_materia":"QUI199","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"1020"}
+,{"nome_materia":"INTRODUCAO A ESTRUTURA DA MATERIA","codigo_materia":"QUI199","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"1020"}
+,{"nome_materia":"INSTRUMENTACAO PARA O ENSINO DE QUIMICA CI","codigo_materia":"QUI200","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"1001 - Lab. QUI"}
+,{"nome_materia":"OPERACOES UNITARIAS B","codigo_materia":"QUI201","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"1017"}
+,{"nome_materia":"OPERACOES UNITARIAS B","codigo_materia":"QUI201","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"1017"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TE1","hora_inicial":"18:10","hora_final":"19:50","dia_semana":"Ter","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TE2","hora_inicial":"18:10","hora_final":"19:50","dia_semana":"Ter","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"AUD. II - ICEX"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TN2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua","nome_sala":"AUD. II - ICEX"}
+,{"nome_materia":"QUIMICA ORGANICA I F","codigo_materia":"QUI207","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"1023"}
+,{"nome_materia":"QUIMICA ORGANICA I F","codigo_materia":"QUI207","turma":"TE1","hora_inicial":"18:10","hora_final":"19:50","dia_semana":"Qua","nome_sala":"1023"}
+,{"nome_materia":"QUIMICA ORGANICA I F","codigo_materia":"QUI207","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"1012"}
+,{"nome_materia":"QUIMICA ORGANICA I F","codigo_materia":"QUI207","turma":"TE2","hora_inicial":"18:10","hora_final":"19:50","dia_semana":"Qua","nome_sala":"1012"}
+,{"nome_materia":"QUIMICA ORGANICA I F","codigo_materia":"QUI207","turma":"TO","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua-Sex","nome_sala":"1022"}
+,{"nome_materia":"QUIMICA ORGANICA I F","codigo_materia":"QUI207","turma":"TP","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua-Sex","nome_sala":"1022"}
+,{"nome_materia":"QUIMICA ANALITICA F","codigo_materia":"QUI208","turma":"TF1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"QUIMICA ANALITICA F","codigo_materia":"QUI208","turma":"TF1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"QUIMICA ANALITICA F","codigo_materia":"QUI208","turma":"TF2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"1012"}
+,{"nome_materia":"QUIMICA ANALITICA F","codigo_materia":"QUI208","turma":"TF2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"1012"}
+,{"nome_materia":"QUIMICA ANALITICA F","codigo_materia":"QUI208","turma":"TO","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua-Sex","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA ANALITICA F","codigo_materia":"QUI208","turma":"TP","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua-Sex","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA AMBIENTAL C","codigo_materia":"QUI215","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1021"}
+,{"nome_materia":"QUIMICA AMBIENTAL C","codigo_materia":"QUI215","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"1021"}
+,{"nome_materia":"QUIMICA AMBIENTAL C","codigo_materia":"QUI215","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"1021"}
+,{"nome_materia":"QUIMICA INORGANICA CII","codigo_materia":"QUI216","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"1021"}
+,{"nome_materia":"QUIMICA INORGANICA CII","codigo_materia":"QUI216","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qui","nome_sala":"1019"}
+,{"nome_materia":"INSTRUMENTACAO PARA O ENSINO DE QUIMICA CII","codigo_materia":"QUI217","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1025"}
+,{"nome_materia":"METODOS FISICOS DE ANALISE II","codigo_materia":"QUI218","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1022"}
+,{"nome_materia":"ESPECTROSCOPIA","codigo_materia":"QUI219","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"1011"}
+,{"nome_materia":"ESPECTROSCOPIA","codigo_materia":"QUI219","turma":"TF","hora_inicial":"19:00","hora_final":"21:45","dia_semana":"Sex","nome_sala":"1011"}
+,{"nome_materia":"ANALISE INSTRUMENTAL A","codigo_materia":"QUI221","turma":"PB1","hora_inicial":"09:25","hora_final":"11:55","dia_semana":"Qua","nome_sala":"4005 e 4007 - Anexo I - DQ"}
+,{"nome_materia":"ANALISE INSTRUMENTAL A","codigo_materia":"QUI221","turma":"PB2","hora_inicial":"13:50","hora_final":"16:20","dia_semana":"Qua","nome_sala":"4005 e 4007 - Anexo I - DQ"}
+,{"nome_materia":"ANALISE INSTRUMENTAL A","codigo_materia":"QUI221","turma":"PB3","hora_inicial":"13:00","hora_final":"15:30","dia_semana":"Sex","nome_sala":"4005 e 4007 - Anexo I - DQ"}
+,{"nome_materia":"ANALISE INSTRUMENTAL A","codigo_materia":"QUI221","turma":"PB4","hora_inicial":"16:00","hora_final":"18:30","dia_semana":"Sex","nome_sala":"4005 e 4007 - Anexo I - DQ"}
+,{"nome_materia":"ANALISE INSTRUMENTAL A","codigo_materia":"QUI221","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg","nome_sala":"1022"}
+,{"nome_materia":"ANALISE INSTRUMENTAL B","codigo_materia":"QUI222","turma":"TM","hora_inicial":"13:50","hora_final":"14:40","dia_semana":"Seg","nome_sala":"AUD. I - ICEX"}
+,{"nome_materia":"CRIACAO DE EMPRESAS DE BASE TECNOLOGICA","codigo_materia":"QUI229","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2006"}
+,{"nome_materia":"INTRODUCAO AOS POLIMEROS","codigo_materia":"QUI234","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1012"}
+,{"nome_materia":"INTRODUCAO AOS METODOS CROMATOGRAFICOS","codigo_materia":"QUI240","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2006"}
+,{"nome_materia":"CATALISE HOMOGENEA E HETOROGENEA","codigo_materia":"QUI242","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"1011"}
+,{"nome_materia":"FUNDAMENTOS DE ESPECTROSCOPIA RAMAN E NO INFRAVERMELHO","codigo_materia":"QUI247","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1014"}
+,{"nome_materia":"QUIMICA ANALITICA I","codigo_materia":"QUI260","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"2031"}
+,{"nome_materia":"QUIMICA ORGANICA I","codigo_materia":"QUI261","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"TQ. INDUSTRIAL A - FUNDAMENTOS DE FENOMENOS DE TRANSPORTE","codigo_materia":"QUI280","turma":"TM","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1022"}
+,{"nome_materia":"TQ INDUSTRIAL A - REATORES QUIMICOS INDUSTRIAIS","codigo_materia":"QUI280","turma":"TTN","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Ter","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"QUIMICA INORGANICA F","codigo_materia":"QUI291","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Sex","nome_sala":"1015"}
+,{"nome_materia":"QUIMICA INORGANICA F","codigo_materia":"QUI291","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Sex","nome_sala":"1019"}
+,{"nome_materia":"QUIMICA INORGANICA F","codigo_materia":"QUI291","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"1020"}
+,{"nome_materia":"QUIMICA INORGANICA F","codigo_materia":"QUI291","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qua","nome_sala":"1019"}
+,{"nome_materia":"ELEMENTOS DE FISICO-QUIMICA","codigo_materia":"QUI293","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qua-Sex","nome_sala":"1015"}
+,{"nome_materia":"ELEMENTOS DE FISICO-QUIMICA","codigo_materia":"QUI293","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qua-Sex","nome_sala":"1021"}
+,{"nome_materia":"ELEMENTOS DE FISICO-QUIMICA","codigo_materia":"QUI293","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"ELEMENTOS DE FISICO-QUIMICA","codigo_materia":"QUI293","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"ELEMENTOS DE FISICO-QUIMICA","codigo_materia":"QUI293","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"ELEMENTOS DE FISICO-QUIMICA","codigo_materia":"QUI293","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"QUIMICA ANALITICA INSTRUMENTAL F","codigo_materia":"QUI295","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"1022"}
+,{"nome_materia":"QUIMICA ANALITICA INSTRUMENTAL F","codigo_materia":"QUI295","turma":"TO","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"QUIMICA ANALITICA INSTRUMENTAL F","codigo_materia":"QUI295","turma":"TP","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"QUIMICA INORGANICA I","codigo_materia":"QUI601","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"FISICO-QUIMICA I","codigo_materia":"QUI602","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1023"}
+,{"nome_materia":"FISICO-QUIMICA I","codigo_materia":"QUI602","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"QUIMICA ORGANICA I","codigo_materia":"QUI603","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1025"}
+,{"nome_materia":"FISICO-QUIMICA II","codigo_materia":"QUI604","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Qua-Sex","nome_sala":"1012"}
+,{"nome_materia":"FISICO-QUIMICA II","codigo_materia":"QUI604","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Qua-Sex","nome_sala":"1022"}
+,{"nome_materia":"QUIMICA ORGANICA II","codigo_materia":"QUI605","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"QUIMICA GERAL AQUACULTURA","codigo_materia":"QUI626","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA GERAL E","codigo_materia":"QUI628","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1023"}
+,{"nome_materia":"QUIMICA PARA CIENCIAS BIOLOGICAS","codigo_materia":"QUI142","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qua-Sex","nome_sala":"1020"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TN3","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg","nome_sala":"1009 e 1010 Lab"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"1009 e 1010 Lab"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"ORGANIZACAO DE COMPUTADORES I","codigo_materia":"DCC006","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"2009 - DCC"}
+,{"nome_materia":"ORGANIZACAO DE COMPUTADORES I","codigo_materia":"DCC006","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"1015"}
+,{"nome_materia":"INTRODUCAO A ARQUITETURA DE COMPUTADORES","codigo_materia":"DCC017","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"1015"}
+,{"nome_materia":"INTRODUCAO A BANCO DE DADOS","codigo_materia":"DCC011","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"INTRODUCAO A BANCO DE DADOS","codigo_materia":"DCC011","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"INTRODUCAO A BANCO DE DADOS","codigo_materia":"DCC011","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2013 - DCC"}
+,{"nome_materia":"REDES DE COMPUTADORES","codigo_materia":"DCC023","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"REDES DE COMPUTADORES","codigo_materia":"DCC023","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"REDES DE COMPUTADORES","codigo_materia":"DCC023","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"1015"}
+,{"nome_materia":"REDES DE COMPUTADORES","codigo_materia":"DCC023","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 206"}
+,{"nome_materia":"LINGUAGENS DE PROGRAMACAO","codigo_materia":"DCC024","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"2010 - DCC"}
+,{"nome_materia":"TCC: GERENCIAMENTO DAS REDES DE COMPUTADORES E SERVICOS","codigo_materia":"DCC030","turma":"TD","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"TSI: GERENCIAMENTO DAS REDES DE COMPUTADORES E DOS SERVICOS","codigo_materia":"DCC049","turma":"TG","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"TCC: BANCOS DE DADOS GEOGRAFICOS","codigo_materia":"DCC030","turma":"TK","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TSI: BANCO DE DADOS GEOGRAFICOS","codigo_materia":"DCC049","turma":"TM","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TCC: MEDICAO E QUALIDADE DE SOFTWARE","codigo_materia":"DCC030","turma":"TC","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2009 - DCC"}
+,{"nome_materia":"TSI: MEDICAO E QUALIDADE DE SOFTWARE","codigo_materia":"DCC049","turma":"TD","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2009 - DCC"}
+,{"nome_materia":"TCC: METODOS FORMAIS","codigo_materia":"DCC030","turma":"TE","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2010 - DCC"}
+,{"nome_materia":"TSI: METODOS FORMAIS","codigo_materia":"DCC049","turma":"TH","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2010 - DCC"}
+,{"nome_materia":"TCC: GESTAO DE EQUIPES","codigo_materia":"DCC030","turma":"TS","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TSI: GESTAO DE EQUIPES","codigo_materia":"DCC049","turma":"TU","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TCC: NANOCOMPUTACAO","codigo_materia":"DCC030","turma":"TH","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2006"}
+,{"nome_materia":"TSI: NANOCOMPUTACAO","codigo_materia":"DCC049","turma":"TJ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2006"}
+,{"nome_materia":"TCC: BIOINFORMATICA","codigo_materia":"DCC030","turma":"TA","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TSI: BIOINFORMATICA","codigo_materia":"DCC049","turma":"TB","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TCC: SISTEMAS DE INFORMACAO BIOMEDICOS","codigo_materia":"DCC030","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2010 - DCC"}
+,{"nome_materia":"TSI: SISTEMAS DE INFORMACAO BIOMEDICOS","codigo_materia":"DCC049","turma":"TP","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2010 - DCC"}
+,{"nome_materia":"CALCULO NUMERICO","codigo_materia":"DCC034","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"2008 - DCC"}
+,{"nome_materia":"CALCULO NUMERICO","codigo_materia":"DCC034","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1011"}
+,{"nome_materia":"FUNDAMENTOS DE SISTEMAS DE INFORMACAO","codigo_materia":"DCC044","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Qua","nome_sala":"1015"}
+,{"nome_materia":"TSI: HEURISTICAS E METAHEURISTICAS","codigo_materia":"DCC049","turma":"TR","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"2015 - DCC"}
+,{"nome_materia":"HEURISTICAS E METAHEURISTICAS","codigo_materia":"DCC215","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"2015 - DCC"}
+,{"nome_materia":"ENGENHARIA DE SOFTWARE II","codigo_materia":"DCC072","turma":"TZ \/ TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"INTRODUCAO AOS SISTEMAS LOGICOS","codigo_materia":"DCC114","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"FUNDAMENTOS DA TEORIA DA COMPUTACAO","codigo_materia":"DCC129","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"INTERACAO HUMANO-COMPUTADOR","codigo_materia":"DCC194","turma":"TZ \/TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"TEORIA DOS GRAFOS","codigo_materia":"DCC199","turma":"TB \/ TB1 \/ TOP","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2008 - DCC"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 210"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter","nome_sala":"CAD3 - AUDITORIO B302"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qui","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 212"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"ESTRUTURAS DE DADOS","codigo_materia":"DCC205","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"ESTRUTURAS DE DADOS","codigo_materia":"DCC205","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"ALGORITMOS I","codigo_materia":"DCC206","turma":"TN \/ TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"ALGORITMOS I","codigo_materia":"DCC206","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"2008 - DCC"}
+,{"nome_materia":"ALGORITMOS II","codigo_materia":"DCC207","turma":"T10 \/ TN \/ TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"INTRODUCAO A PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC208","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"MATEMATICA DISCRETA","codigo_materia":"DCC216","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"MATEMATICA DISCRETA","codigo_materia":"DCC216","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"INTRODUCAO A INFORMATICA","codigo_materia":"DCC601","turma":"TBD","hora_inicial":"07:30","hora_final":"11:10","dia_semana":"Sex","nome_sala":"2013 - DCC"}
+,{"nome_materia":"ENGENHARIA DE SOFTWARE","codigo_materia":"DCC603","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2013 - DCC"}
+,{"nome_materia":"ENGENHARIA DE SOFTWARE","codigo_materia":"DCC603","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2013 - DCC"}
+,{"nome_materia":"SISTEMAS OPERACIONAIS","codigo_materia":"DCC605","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"2013 - DCC"}
+,{"nome_materia":"SISTEMAS OPERACIONAIS","codigo_materia":"DCC605","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"1024"}
+,{"nome_materia":"ETICA NA COMPUTACAO","codigo_materia":"DCC636","turma":"TN \/ TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter","nome_sala":"2009 - DCC"}
+,{"nome_materia":"ETICA NA COMPUTACAO","codigo_materia":"DCC636","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"2009 - DCC"}
+,{"nome_materia":"COMPUTACAO E SOCIEDADE","codigo_materia":"DCC637","turma":"TN \/ TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qui","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"COMPUTACAO E SOCIEDADE","codigo_materia":"DCC637","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"2009 - DCC"}
+,{"nome_materia":"INTRODUCAO A LOGICA COMPUTACIONAL","codigo_materia":"DCC638","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 210"}
+,{"nome_materia":"INTRODUCAO A LOGICA COMPUTACIONAL","codigo_materia":"DCC638","turma":"TZ \/ TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"FUNDAMENTOS DE SISTEMAS PARALELOS E DISTRIBUIDOS","codigo_materia":"DCC641","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua","nome_sala":"2010 - DCC"}
+,{"nome_materia":"ADMINISTRACAO","codigo_materia":"CAD011","turma":"TM","hora_inicial":"07:30","hora_final":"22:00","dia_semana":"Seg-Ter-Qua-Qui-Sex","nome_sala":"ON LINE"}
+,{"nome_materia":"ADMINISTRACAO TGA","codigo_materia":"CAD103","turma":"TTEAD","hora_inicial":"07:30","hora_final":"22:00","dia_semana":"Seg-Ter-Qua-Qui-Sex","nome_sala":"ON LINE"}
+,{"nome_materia":"ADMINISTRACAO DE CUSTOS","codigo_materia":"CAD153","turma":"TZ","hora_inicial":"17:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"1015"}
+,{"nome_materia":"ADMINISTRACAO DE RECURSOS HUMANOS","codigo_materia":"CAD163","turma":"TZ","hora_inicial":"17:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"ADMINISTRACAO MERCADOLOGICA","codigo_materia":"CAD164","turma":"TZ","hora_inicial":"17:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"CAD3 - Sala 206"}
+,{"nome_materia":"ADMINISTRACAO FINANCEIRA","codigo_materia":"CAD167","turma":"TZ","hora_inicial":"17:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"INTRODUCAO A CONTABILIDADE","codigo_materia":"CIC010","turma":"TB","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1011"}
+,{"nome_materia":"INTRODUCAO A CONTABILIDADE","codigo_materia":"CIC010","turma":"TTSE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"1011"}
+,{"nome_materia":"ECONOMIA A I","codigo_materia":"ECN101","turma":"TC","hora_inicial":"19:00","hora_final":"22:20","dia_semana":"Sex","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"INTRODUCAO A ECONOMIA","codigo_materia":"ECN140","turma":"TD","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 211"}
+,{"nome_materia":"INTRODUCAO AO ESTUDO DE MINERAIS","codigo_materia":"GEL054","turma":"PE1 \/ PE2","hora_inicial":"21:40","hora_final":"22:30","dia_semana":"Ter","nome_sala":"1026"}
+,{"nome_materia":"INTRODUCAO AO ESTUDO DE MINERAIS","codigo_materia":"GEL054","turma":"TE1 \/ TE2","hora_inicial":"19:00","hora_final":"21:30","dia_semana":"Ter","nome_sala":"1026"}
+,{"nome_materia":"TOPICOS ESPECIAIS D - COSMOLOGIA","codigo_materia":"ICE064","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1018"}
+,{"nome_materia":"TOPICOS ESPECIAIS D - APRENDENDO FISICA ENFRENTANDO PROBLEMAS ABERTOS III","codigo_materia":"ICE064","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"1011"}
+,{"nome_materia":"TOPICOS EM DEMOGRAFIA - BASE DE DADOS","codigo_materia":"POP004","turma":"TB","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1025"}
+,{"nome_materia":"CONCEITOS BASICOS EM DEMOGRAFIA","codigo_materia":"POP006","turma":"TA","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1025"}
+,{"nome_materia":"FORCA DE TRABALHO, EMPREGO E PEA","codigo_materia":"POP009","turma":"TA","hora_inicial":"07:30","hora_final":"11:05","dia_semana":"Sex","nome_sala":"1025"}
+,{"nome_materia":"USUARIOS DA INFORMACAO","codigo_materia":"TGI004","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1023"}
+,{"nome_materia":"ADMINISTRACAO DA PRODUCAO","codigo_materia":"CAD004","turma":"TZ","hora_inicial":"17:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"1016"}
+,{"nome_materia":"BIOESTATISTICA BASICA F","codigo_materia":"EST083","turma":"TB","hora_inicial":"10:15","hora_final":"11:55","dia_semana":"Seg","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"ORGANIZACAO E TRATAMENTO DA INFORMACAO","codigo_materia":"OTI071","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"TCC: CAUSALIDADE EM APRENDIZADO DE MAQUINA","codigo_materia":"DCC030","turma":"TB","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"TSI: CAUSALIDADE EM APRENDIZADO DE MAQUINA","codigo_materia":"DCC049","turma":"TE","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"INTRODUCAO A INTELIGENCIA ARTIFICIAL","codigo_materia":"DCC642","turma":"TE\/ TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"0-Qua","nome_sala":"2015 - DCC"}
+,{"nome_materia":"TOPICOS ESPECIAIS EM INFORMATICA II - INTRODUCAO A INTELIGENCIA ARTIFICIAL","codigo_materia":"DCC069","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"2015 - DCC"}
+,{"nome_materia":"INTRODUCAO A INTELIGENCIA ARTIFICIAL","codigo_materia":"DCC642","turma":"TE\/ TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"2015 - DCC"}
+,{"nome_materia":"TOPICOS ESPECIAIS EM INFORMATICA II - INTRODUCAO A INTELIGENCIA ARTIFICIAL","codigo_materia":"DCC069","turma":"TB","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg","nome_sala":"2009 - DCC"}
+,{"nome_materia":"INTRODUCAO A INTELIGENCIA ARTIFICIAL","codigo_materia":"DCC642","turma":"TM\/ TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg","nome_sala":"2009 - DCC"}
+,{"nome_materia":"ANALISE NUMERICA","codigo_materia":"DCC033","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1015"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1012"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TB1","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1012"}
+,{"nome_materia":"QUIMICA ORGANICA II F","codigo_materia":"QUI294","turma":"TP","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"QUIMICA ORGANICA CII","codigo_materia":"QUI189","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"TE: APRENDIZADO DE MAQUINA","codigo_materia":"EST171","turma":"TE","hora_inicial":"07:30","hora_final":"11:05","dia_semana":"Sex","nome_sala":"AUD. I - ICEX"}
+,{"nome_materia":"ESTATISTICA ECONOMICA I","codigo_materia":"EST072","turma":"TC","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1016"}
+,{"nome_materia":"ESTATISTICA ECONOMICA II","codigo_materia":"EST073","turma":"TC","hora_inicial":"09:25","hora_final":"11:00","dia_semana":"Ter-Qui","nome_sala":"1016"}
+,{"nome_materia":"TECNICAS ATUARIAIS I","codigo_materia":"EST047","turma":"TU","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"1015"}
+,{"nome_materia":"TQL: TECNOLOGIA CERVEJEIRA","codigo_materia":"QUI093","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Qua","nome_sala":"1017"}
+,{"nome_materia":"INFERENCIA","codigo_materia":"EST055","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"INTRODUCAO A ESTATISTICA","codigo_materia":"EST057","turma":"TNB","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"1015"}
+,{"nome_materia":"INTRODUCAO A ESTATISTICA","codigo_materia":"EST057","turma":"TU","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Sex","nome_sala":"2032"}
+,{"nome_materia":"OPERACOES UNITARIAS A","codigo_materia":"QUI192","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1022"}
+,{"nome_materia":"ESTAGIO CURRICULAR","codigo_materia":"QUI262","turma":"PS","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"6","nome_sala":"AUD. I - QUI"}
+,{"nome_materia":"TRABALHO DE CONCLUSAO DE CURSO LII","codigo_materia":"QUI290","turma":"PA","hora_inicial":"07:00","hora_final":"09:10","dia_semana":"6","nome_sala":"AUD. I - QUI"}
+,{"nome_materia":"TRABALHO DE CONCLUSAO DE CURSO II - BACHARELADO","codigo_materia":"QUI263","turma":"PS","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"6","nome_sala":"AUD. I - QUI"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS C","codigo_materia":"MAT040","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1016"}
+,{"nome_materia":"ESTATISTICA II","codigo_materia":"EST002","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 206"}
+,{"nome_materia":"ESTATISTICA II","codigo_materia":"EST002","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - sala 406"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TA4","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - AUDITORIO B-301"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - AUDITORIO B -107"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"ESTATISTICA E PROBABILIDADES","codigo_materia":"EST031","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 409"}
+,{"nome_materia":"QUIMICA  ANALITICA I","codigo_materia":"QUI606","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1016"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TB4","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"1016"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"TB3","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"1023"}
+,{"nome_materia":"FUNDAMENTOS DE QUIMICA ANALITICA","codigo_materia":"QUI051","turma":"TB","hora_inicial":"09:25","hora_final":"11:55","dia_semana":"Sex","nome_sala":"1023"}
+,{"nome_materia":"QUIMICA INORGANICA CIII","codigo_materia":"QUI223","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"QUIMICA INORGANICA I","codigo_materia":"QUI601","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"QUIMICA INORGANICA I","codigo_materia":"QUI601","turma":"TA1","hora_inicial":"07:30","hora_final":"09:25","dia_semana":"Ter-Qui","nome_sala":"1026"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT105","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua-Sex","nome_sala":"1012"}
+,{"nome_materia":"DESENHO TECNICO F","codigo_materia":"EQM034","turma":"PM \/ PM1","hora_inicial":"15:45","hora_final":"17:25","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 405"}
+,{"nome_materia":"PROBABILIDADE","codigo_materia":"EST032","turma":"TME","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 206"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TN1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"QUIMICA GERAL F","codigo_materia":"QUI203","turma":"TN1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"RADIOATIVIDADE E O MEIO AMBIENTE","codigo_materia":"QUI254","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"TOPICOS ESPECIAIS D - FISICA COMPUTACIONAL, INFORMACAO E COMPLEXIDADE","codigo_materia":"ICE064","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 208"}
+,{"nome_materia":"ESTATISTICA PARA ENGENHARIA CIVIL","codigo_materia":"EST027","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1024"}
+,{"nome_materia":"QUIMICA ORGANICA II F","codigo_materia":"QUI294","turma":"TO","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 308"}
+,{"nome_materia":"QUIMICA GERAL E","codigo_materia":"QUI628","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"1018"}
+,{"nome_materia":"QUIMICA GERAL E","codigo_materia":"QUI628","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"1018"}
+,{"nome_materia":"QUIMICA GERAL E","codigo_materia":"QUI628","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 412"}
+,{"nome_materia":"PROCESSOS ESTOCASTICOS","codigo_materia":"EST039","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1020"}
+,{"nome_materia":"ALGEBRA LINEAR COMPUTACIONAL","codigo_materia":"DCC639","turma":"TZ \/ TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2013 - DCC"}
+,{"nome_materia":"ALGEBRA LINEAR COMPUTACIONAL","codigo_materia":"DCC639","turma":"TZ2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2008 - DCC"}
+,{"nome_materia":"PESQUISA OPERACIONAL","codigo_materia":"DCC035","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"MINERACAO DE DADOS","codigo_materia":"DCC057","turma":"TZ \/ TZ1 \/ TZ2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"ALGEBRA LINEAR COMPUTACIONAL","codigo_materia":"DCC639","turma":"TTZ1","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2013 - DCC"}
+,{"nome_materia":"PROBABILIDADE I","codigo_materia":"EST007","turma":"TB","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2031"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"INTRODUCAO A PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC208","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"INTRODUCAO AOS SISTEMAS LOGICOS","codigo_materia":"DCC114","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Sex","nome_sala":"2008 - DCC"}
+,{"nome_materia":"TCC: COMPLEXIDADE COMPUTACIONAL","codigo_materia":"DCC030","turma":"TF","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TSI: HEURISTICAS E METAHEURISTICAS","codigo_materia":"DCC049","turma":"TR","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TSI: COMPLEXIDADE COMPUTACIONA","codigo_materia":"DCC049","turma":"TF","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2014 - DCC"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TM3 \/ TN3 \/ TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"MINERACAO DE DADOS","codigo_materia":"DCC057","turma":"TZ\/ TZ1\/ TZ2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"ESTRUTURAS DE DADOS","codigo_materia":"DCC205","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"INICIACAO A MATEMATICA","codigo_materia":"MAT046","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2032"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TA3","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - AUDITORIO B302"}
+,{"nome_materia":"TCC: ALGORITMOS AVANCADOS","codigo_materia":"DCC030","turma":"TR","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2014 - DCC"}
+,{"nome_materia":"TSI: ALGORITMOS AVANCADOS","codigo_materia":"DCC049","turma":"TX","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"2014 - DCC"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TM1 \/ TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"ANALISE NUMERICA","codigo_materia":"DCC033","turma":"TN1\/ TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - AUDITORIO B302"}
+,{"nome_materia":"CALCULO NUMERICO","codigo_materia":"DCC034","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"2008 - DCC"}
+,{"nome_materia":"ESTRUTURAS DE DADOS","codigo_materia":"DCC205","turma":"TW\/ TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"FISICA EXPERIMENTAL BASICA - ONDAS E OPTICA","codigo_materia":"FIS155","turma":"TODAS","hora_inicial":"07:30","hora_final":"22:35","dia_semana":"Seg-Ter-Qua-Qui-Sex","nome_sala":"2047 e 2048 - LAB. FIS"}
+,{"nome_materia":"QUIMICA  ANALITICA I","codigo_materia":"QUI606","turma":"TA1","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"1021"}
+,{"nome_materia":"HISTORIA DA QUIMICA B","codigo_materia":"QUI097","turma":"T","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"TQL: INTRODUCAO AS REDES NEURAIS ARTIFICIAIS APLICADAS A QUIMICA","codigo_materia":"QUI093","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Sex","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"TQL: FUNDAMENTOS DE METODOS COMPUTACIONAIS EM QUIMICA","codigo_materia":"QUI093","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Sex","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"CALCULO DE VARIAS VARIAVEIS","codigo_materia":"MAT042","turma":"TA1\/ TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"CALCULO DE VARIAS VARIAVEIS","codigo_materia":"MAT042","turma":"TB1\/TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"ESTRUTURAS DE DADOS","codigo_materia":"DCC205","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"2010 - DCC"}
+,{"nome_materia":"ENGENHARIA DE USABILIDADE","codigo_materia":"DCC193","turma":"TB \/ TOP","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2009 - DCC"}
+,{"nome_materia":"TSI: ENGENHARIA DE USABILIDADE","codigo_materia":"DCC049","turma":"TU","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2009 - DCC"}
+,{"nome_materia":"TSI: ENGENHARIA E USUABILIDADE","codigo_materia":"DCC030","turma":"TU","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2009 - DCC"}
+,{"nome_materia":"INFERENCIA","codigo_materia":"EST187","turma":"TA","hora_inicial":"09:25","hora_final":"11:55","dia_semana":"Seg-Qua","nome_sala":"2024 EST"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TA4","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1025"}
+,{"nome_materia":"TOPICOS ESPECIAIS D - INTRODUCAO A FISICA DOS MATERIAIS","codigo_materia":"ICE064","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"1027 - informatica"}
+,{"nome_materia":"INTRODUCAO A FISICA ESTATISTICA COMPUTACIONAL","codigo_materia":"FIS156","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1009 - Laboratorio"}
+,{"nome_materia":"FUNDAMENTOS DE FISICA F","codigo_materia":"FIS093","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Sex","nome_sala":"CAD1 - 310"}
+,{"nome_materia":"FUNDAMENTOS DE FISICA F","codigo_materia":"FIS093","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter","nome_sala":"CAD1 - Sala 208"}
+,{"nome_materia":"FISICO-QUIMICA CII","codigo_materia":"QUI190","turma":"TA","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 308"}
+,{"nome_materia":"QUIMICA INORGANICA CIII","codigo_materia":"QUI223","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"QUIMICA INORGANICA CIII","codigo_materia":"QUI223","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"QUIMICA GERAL C","codigo_materia":"QUI143","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"QUIMICA GERAL C","codigo_materia":"QUI143","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Sex","nome_sala":"CAD3 - Sala 205"}
+,{"nome_materia":"INTRODUCAO A PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC208","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - AUDITORIO B-301"}
+,{"nome_materia":"TCC: QUANTUM INFORMATION THEORY","codigo_materia":"DCC030","turma":"TL","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"TSI: QUANTUM INFORMATION THEORY","codigo_materia":"DCC049","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"REDES DE COMPUTADORES","codigo_materia":"DCC023","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg","nome_sala":"2010 - DCC"}
+,{"nome_materia":"REDES DE COMPUTADORES","codigo_materia":"DCC023","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua","nome_sala":"2009 - DCC"}
+,{"nome_materia":"TCC: SISTEMAS DE RECOMENDACAO","codigo_materia":"DCC030","turma":"TJ","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"2013 - DCC"}
+,{"nome_materia":"TSI: SISTEMAS DE RECOMENDACAO","codigo_materia":"DCC049","turma":"TL","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"2013 - DCC"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TB1\/TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"AUD. I - ICEX"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TE1\/ TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"AUD. I - ICEX"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TE1\/ TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"AUD. I - ICEX"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"TA3","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - sala 307"}
+,{"nome_materia":"INTRODUCAO A LOGICA COMPUTACIONAL","codigo_materia":"DCC638","turma":"TZ \/ TZ1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Qua","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"ESTATISTICA APLICADA A PSICOLOGIA","codigo_materia":"EST084","turma":"T","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qua-Sex","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TN3","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"ROBOTICA MOVEL","codigo_materia":"DCC042","turma":"TN \/ TN1 \/ TOP","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2016 DCC"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE II","codigo_materia":"DCC204","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"2013 - DCC"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TA1\/ TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TA1\/ TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"INTRODUCAO A PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC208","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO DE COMPUTADORES","codigo_materia":"DCC001","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"CALCULO NUMERICO","codigo_materia":"DCC034","turma":"TB1\/ TB2\/ TB3","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - AUDITORIO B-301"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TD1","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 309"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"MATEMATICA A","codigo_materia":"MAT020","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 308"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TF1\/ TF2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - AUDITORIO B-301"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TF1\/ TF2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - AUDITORIO B-301"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL III","codigo_materia":"MAT002","turma":"TN3","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - AUDITORIO B-301"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS B","codigo_materia":"MAT016","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - AUDITORIO B -107"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"1019"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"1019"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"1019"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"1012"}
+,{"nome_materia":"NONOCIENCIA E NANOTECNOLOGIA","codigo_materia":"QUI245","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"TSI: INTRODUCAO A CIENCIA DOS DADOS","codigo_materia":"DCC049","turma":"TA","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"INTRODUCAO A CIENCIA DOS DADOS","codigo_materia":"DCC212","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 213"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TZ2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"MATEMATICA","codigo_materia":"MAT130","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"1014"}
+,{"nome_materia":"EQUACOES DIFERENCIAIS A","codigo_materia":"MAT015","turma":"TD","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Ter-Qui","nome_sala":"2032"}
+,{"nome_materia":"ALGEBRA E FUNCAO NA EDUCACAO BASICA","codigo_materia":"MAT051","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"CAD3 - SALA 204"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"FUNDAMENTOS DE OSCILACOES E ONDAS","codigo_materia":"FIS087","turma":"TB1\/ TB2","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Qua","nome_sala":"CAD3 - AUDITORIO B-301"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TD1","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Seg-Qua-Sex","nome_sala":"CAD3 - AUDITORIO B302"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TN4","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"CAD1 - 312"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA DOS FLUIDOS E TERMODINAMICA","codigo_materia":"FIS152","turma":"TA1\/ TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg","nome_sala":"CAD3 - AUDITORIO B -107"}
+,{"nome_materia":"INTRODUCAO A CIENCIA DA COMPUTACAO","codigo_materia":"DCC050","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"2008 - DCC"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"TM1","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 407"}
+,{"nome_materia":"TSI: GEOMETRIA AFIM E PROJETIVA COM APLICA COES EM COMPUTACAO GRAFICA","codigo_materia":"DCC049","turma":"TMAT","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"TCC: GEOMETRIA AFIM E PROJETIVA COM APLICACOES EM COMPUTACAO GRAFICA","codigo_materia":"DCC030","turma":"TM","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"TCC: GEOMETRIA AFIM E PROJETIVA COM APLICACOES EM COMPUTACAO GRAFICA","codigo_materia":"DCC030","turma":"TM","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"TSI: GEOMETRIA AFIM E PROJETIVA COM APLICA COES EM COMPUTACAO GRAFICA - DCC049","codigo_materia":"DCC049","turma":"TMAT","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 207"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qui","nome_sala":"CAD2 - C204 e C206 Lab"}
+,{"nome_materia":"ANALISE NUMERICA","codigo_materia":"DCC033","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 311"}
+,{"nome_materia":"ANALISE NUMERICA","codigo_materia":"DCC033","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"1009 e 1010 Lab"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD2 - C204 e C206 Lab"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TD","hora_inicial":"11:10","hora_final":"12:50","dia_semana":"Seg-Qua-Sex","nome_sala":"1015"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TM5","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua-Sex","nome_sala":"1016"}
+,{"nome_materia":"AMOSTRAGEM","codigo_materia":"EST037","turma":"TA","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"1011"}
+,{"nome_materia":"PROBABILIDADE II","codigo_materia":"EST028","turma":"TU","hora_inicial":"09:25","hora_final":"11:55","dia_semana":"Ter-Qui","nome_sala":"1024"}
+,{"nome_materia":"FUNDAMENTOS DE ELETROMAGNETISMO","codigo_materia":"FIS069","turma":"T","hora_inicial":"07:30","hora_final":"11:05","dia_semana":"Seg-Qua","nome_sala":"AUD. II - ICEX"}
+,{"nome_materia":"MATEMATICA","codigo_materia":"MAT130","turma":"TA3","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 210"}
+,{"nome_materia":"TCC: EMPREENDIMENTOS EM INFORMATICA","codigo_materia":"DCC030","turma":"TT","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"TSI: EMPREENDIMENTOS EM INFORMATICA","codigo_materia":"DCC049","turma":"TV","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"EMPREENDIMENTOS EM INFORMATICA","codigo_materia":"DCC055","turma":"TZ \/ TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Auditorio B306"}
+,{"nome_materia":"MATEMATICA DISCRETA","codigo_materia":"DCC216","turma":"TM2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"2015 - DCC"}
+,{"nome_materia":"LINGUAGENS DE PROGRAMACAO","codigo_materia":"DCC024","turma":"TM","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"2013 - DCC"}
+,{"nome_materia":"TMA - DESCOBRIDORES DA MATEMATICA NUMEROS NA ESCOLA","codigo_materia":"MAT033","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"1019"}
+,{"nome_materia":"TMA - DESCOBRIDORES DA MATEMATICA NUMEROS NA ESCOLA","codigo_materia":"MAT033","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"1019"}
+,{"nome_materia":"TCC: RECUPERACAO DE INFORMACAO MUSICAL","codigo_materia":"DCC030","turma":"TI","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2010 - DCC"}
+,{"nome_materia":"TSI: RECUPERACAO DE INFORMACAO MUSICAL","codigo_materia":"DCC049","turma":"TK","hora_inicial":"09:25","hora_final":"11:05","dia_semana":"Ter-Qui","nome_sala":"2010 - DCC"}
+,{"nome_materia":"TECNOLOGIA DE GESTAO DA QUALIDADE E DO MEIO AMBIENTE","codigo_materia":"QUI279","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter-Qui","nome_sala":"1024"}
+,{"nome_materia":"CALCULO DE VARIAS VARIAVEIS","codigo_materia":"MAT042","turma":"TE","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"CALCULO DE VARIAS VARIAVEIS","codigo_materia":"MAT042","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"CAD3 - Sala 312"}
+,{"nome_materia":"TRABALHO DE CONCLUSAO DE CURSO I - BACHARELADO","codigo_materia":"QUI225","turma":"PF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"1018"}
+,{"nome_materia":"ESTATISTICA I","codigo_materia":"EST180","turma":"TE","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter-Qui","nome_sala":"2024 EST"}
+,{"nome_materia":"ESTATISTICA II","codigo_materia":"EST002","turma":"TA","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Seg-Qua","nome_sala":"2024 EST"}
+,{"nome_materia":"FISICA ACUSTICA E ONDAS","codigo_materia":"FIS150","turma":"TM","hora_inicial":"08:20","hora_final":"10:00","dia_semana":"Sex","nome_sala":"2031"}
+,{"nome_materia":"QUIMICA GERAL B","codigo_materia":"QUI003","turma":"TA\/ TA1 \/ TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 411"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"E1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Ter","nome_sala":"2054 - FIS"}
+,{"nome_materia":"GEOMETRIA ANALITICA E ALGEBRA LINEAR","codigo_materia":"MAT038","turma":"E1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qui","nome_sala":"2054 - FIS"}
+,{"nome_materia":"TCC: CRIACAO DE STARTUPS: ABORDAGEM AGIL DE PROBLEMAS DE EMPRESAS","codigo_materia":"DCC030","turma":"TG","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"TSI: CRIACAO DE STARTUPS: ABORDAGEM AGIL DE PROBLEMAS DE EMPRESAS","codigo_materia":"DCC049","turma":"TI","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"TOPICOS ESPECIAIS D - CRIACAO DE STARTUP II","codigo_materia":"ICE064","turma":"TM","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"CAD3 - Sala 310"}
+,{"nome_materia":"QUIMICA ORGANICA II F","codigo_materia":"QUI294","turma":"TE1","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"1015"}
+,{"nome_materia":"QUIMICA ORGANICA II F","codigo_materia":"QUI294","turma":"TE1","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"1015"}
+,{"nome_materia":"QUIMICA ORGANICA II F","codigo_materia":"QUI294","turma":"TE2","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Seg","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"QUIMICA ORGANICA II F","codigo_materia":"QUI294","turma":"TE2","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 413"}
+,{"nome_materia":"MATEMATICA","codigo_materia":"MAT130","turma":"TA2","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Seg-Qua","nome_sala":"1023"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TM3","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Ter","nome_sala":"CAD3 - Sala 408"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"HISTORIA DA QUIMICA A","codigo_materia":"QUI062","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg","nome_sala":"1001 - Lab. QUI"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TW","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"PROGRAMACAO E DESENVOLVIMENTO DE SOFTWARE I","codigo_materia":"DCC203","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Qui","nome_sala":"CAD3 - LAICO B 307"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TN5","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua-Sex","nome_sala":"1023"}
+,{"nome_materia":"TCC: INTRODUCAO A COMPUTACAO VISUAL","codigo_materia":"DCC030","turma":"TP","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2009 - DCC"}
+,{"nome_materia":"TSI: INTRODUCAO A COMPUTACAO VISUAL","codigo_materia":"DCC049","turma":"TS","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2009 - DCC"}
+,{"nome_materia":"TSI: PRATICA DE DESENVOLVIMENTO DE SOFTWARE","codigo_materia":"DCC049","turma":"TT","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2008 - DCC"}
+,{"nome_materia":"TCC: PRATICA DE DESENVOLVIMENTO DE SOFTWARE","codigo_materia":"DCC030","turma":"TO","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Seg-Qua","nome_sala":"2008 - DCC"}
+,{"nome_materia":"TCC: TESTE DE SOFTWARE","codigo_materia":"DCC030","turma":"TQ","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2015 - DCC"}
+,{"nome_materia":"TSI: TESTE DE SOFTWARE","codigo_materia":"DCC049","turma":"TW","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Seg-Qua","nome_sala":"2015 - DCC"}
+,{"nome_materia":"COMPILADORES","codigo_materia":"DCC010","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2015 - DCC"}
+,{"nome_materia":"COMPILADORES I","codigo_materia":"DCC053","turma":"TN","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Ter-Qui","nome_sala":"2015 - DCC"}
+,{"nome_materia":"ANALISE INSTRUMENTAL B","codigo_materia":"QUI222","turma":"TN","hora_inicial":"13:50","hora_final":"16:35","dia_semana":"Seg","nome_sala":"1014"}
+,{"nome_materia":"ANALISE INSTRUMENTAL B","codigo_materia":"QUI222","turma":"TN","hora_inicial":"13:00","hora_final":"15:30","dia_semana":"Ter","nome_sala":"1026"}
+,{"nome_materia":"INTRODUCAO A ESTATISTICA","codigo_materia":"EST057","turma":"TNA","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Ter-Qui","nome_sala":"2025 EST"}
+,{"nome_materia":"INTRODUCAO A ESTRUTURA DA MATERIA","codigo_materia":"QUI199","turma":"TF","hora_inicial":"20:55","hora_final":"22:35","dia_semana":"Qua","nome_sala":"1017"}
+,{"nome_materia":"INTRODUCAO A ESTRUTURA DA MATERIA","codigo_materia":"QUI199","turma":"TF","hora_inicial":"19:00","hora_final":"20:40","dia_semana":"Sex","nome_sala":"1017"}
+,{"nome_materia":"FUNDAMENTOS DA TEORIA DA COMPUTACAO","codigo_materia":"DCC129","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Ter-Qui","nome_sala":"CAD3 - Sala 209"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"G2","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Qua","nome_sala":"1018"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL I","codigo_materia":"MAT001","turma":"TA4","hora_inicial":"07:30","hora_final":"09:10","dia_semana":"Qua","nome_sala":"1024"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"TN2","hora_inicial":"14:55","hora_final":"16:35","dia_semana":"Qua","nome_sala":"AUD. II - ICEX"}
+,{"nome_materia":"FUNDAMENTOS DE MECANICA","codigo_materia":"FIS065","turma":"Z1","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Qua","nome_sala":"1020"}
+,{"nome_materia":"CALCULO DIFERENCIAL E INTEGRAL II","codigo_materia":"MAT039","turma":"M2","hora_inicial":"13:00","hora_final":"14:40","dia_semana":"Qua","nome_sala":"1011"}
+,{"nome_materia":"FUNDAMENTOS DA TEORIA DA RELATIVIDADE","codigo_materia":"FIS091","turma":"TZ","hora_inicial":"17:00","hora_final":"18:40","dia_semana":"Sex","nome_sala":"1012"}
+ ]}
