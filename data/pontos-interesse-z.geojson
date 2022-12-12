@@ -1,0 +1,80 @@
+{
+	"type": "FeatureCollection",
+	"name": "pontos-interesse-z",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"pkuid": 1,
+				"nome": "Portaria Principal",
+				"tipo": "portaria",
+				"andar": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					410.0,
+					-600.0,
+					1.0
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pkuid": 2,
+				"nome": "Bola do ICEx",
+				"tipo": "referencia",
+				"andar": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					280.0,
+					-320.0,
+					1.0
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pkuid": 3,
+				"nome": "Portaria Secundária",
+				"tipo": "portaria",
+				"andar": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					570.0,
+					-60.0,
+					1.0
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pkuid": 4,
+				"nome": "Cantina",
+				"tipo": "referencia",
+				"andar": 2
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					180.0,
+					-160.0,
+					2.0
+				]
+			}
+		}
+	]
+}
