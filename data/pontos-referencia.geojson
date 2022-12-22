@@ -11,7 +11,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"pkuid": 1,
+				"pkuid": 6,
 				"nome": "Portaria Principal",
 				"tipo": "portaria",
 				"andar": 1
@@ -21,14 +21,14 @@
 				"coordinates": [
 					410.0,
 					-600.0,
-					0.0
+					1.0
 				]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"pkuid": 3,
+				"pkuid": 7,
 				"nome": "Portaria Secundária",
 				"tipo": "portaria",
 				"andar": 1
@@ -38,16 +38,16 @@
 				"coordinates": [
 					570.0,
 					-60.0,
-					0.0
+					1.0
 				]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"pkuid": 4,
+				"pkuid": 8,
 				"nome": "Cantina",
-				"tipo": "referencia",
+				"tipo": "cantina",
 				"andar": 2
 			},
 			"geometry": {
@@ -55,7 +55,7 @@
 				"coordinates": [
 					180.0,
 					-160.0,
-					0.0
+					2.0
 				]
 			}
 		}
