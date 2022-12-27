@@ -13,7 +13,7 @@ export default defineConfig({
   },
   root: 'src',
   publicDir: '../public',
-  base: '/~ariel.santos/mapa-icex',
+  // base: '/~ariel.santos/mapa-icex',
   build: {
     outDir: '../dist',
     emptyOutDir: true,
