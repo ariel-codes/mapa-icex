@@ -6,7 +6,7 @@
   "scripts": {
     "download-turmas": "curl -o assets/turmas.json 'https://www.icex.ufmg.br/minhasala/recupera_salas.php'",
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run download-turmas && vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
